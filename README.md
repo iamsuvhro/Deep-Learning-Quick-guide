@@ -1,1 +1,1 @@
-# Python-Basics-with-Numpy-Quick-Guide
+# Deep Learning-Basics-with-Numpy-Quick-Guide
